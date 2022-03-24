@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://mainstreampaintinganddrywall.com/sitemap.xml
